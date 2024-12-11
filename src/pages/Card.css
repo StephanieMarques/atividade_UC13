@@ -1,0 +1,56 @@
+
+
+
+.card {
+    display: grid;
+    place-items: center;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 550px;
+    background-color: #000;
+    border: 1px solid #3DF249;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.home{
+
+    display: grid;
+    place-items: center;
+    justify-content: center;
+    align-items: center;
+
+    & h1.bv {
+        font-size: 32px;
+        font-family: Roboto, sans-serif;
+        color: #3DF249;
+        text-align: center;
+    }
+
+    & p {
+        font-size: 20px ;
+        font-family: Montserrat, sans-serif;
+        color: #D0D5F2;
+        text-align: center;
+    }
+
+    & img {
+        width: 200px;
+        height: 200px;
+    }
+
+    /* & button{
+        width: 280px;
+        height: 50px;
+        border-radius: 5px;
+        border-color: #3DF249;
+        background-color: #3DF249;
+        color: #000;
+        font-size: 20px;
+        font-family: Montserrat, sans-serif;
+        font-weight: 100;
+        margin-bottom: 10px;
+    }*/
+}

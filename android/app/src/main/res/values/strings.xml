@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">appcd</string>
+    <string name="title_activity_main">appcd</string>
+    <string name="package_name">com.appcd.br</string>
+    <string name="custom_url_scheme">com.appcd.br</string>
+</resources>

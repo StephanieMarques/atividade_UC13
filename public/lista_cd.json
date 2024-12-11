@@ -1,0 +1,43 @@
+[
+    {
+        "artista": "Azevedo",
+        "genero": "Trap",
+        "titulo": "Paz Terrivel",
+        "capa": "/images/azevedo.jpg"
+    },
+
+    {
+        "artista": "MC IG",
+        "genero": "Trap",
+        "titulo": "Meu Nome Não é Igor%",
+        "capa": "/images/Ig.jpg"
+    },
+
+    {
+        "artista": "Kayblack, Wall, Hein, AMusik",
+        "genero": "Trap",
+        "titulo": "Maturidade",
+        "capa": "/images/Kayblack.jpg"
+    },
+
+    {
+        "artista": "Nagalli, Supernova",
+        "genero": "Trap",
+        "titulo": "Magic Show",
+        "capa": "/images/nagalli.jpg"
+    },
+
+    {
+        "artista": "Sotam",
+        "genero": "Trap",
+        "titulo": "Depois das 5",
+        "capa": "/images/sotam.jpg"
+    },
+
+    {
+        "artista": "Wiu",
+        "genero": "Trap",
+        "titulo": "Vagabundo de Luxo",
+        "capa": "/images/wiu.jpg"
+    }
+]

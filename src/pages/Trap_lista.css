@@ -1,0 +1,38 @@
+.lista {
+    padding: 20px;
+    background-color: #000;
+  }
+  
+  h2.T
+  .cds-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .cd-item {
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #706CD9;         ;
+    border-radius: 5px;
+  }
+  
+  .favorito-btn {
+    padding: 5px 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: #D0D5F2;
+    color: #000;
+    border: none;
+    border-radius: 3px;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+  }
+  
+  .favorito-btn.favoritado {
+    background-color: #3DF249;
+  }
+  
+  .favorito-btn:hover {
+    background-color: #6929F2;
+  }
+  

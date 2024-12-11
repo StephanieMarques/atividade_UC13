@@ -1,0 +1,29 @@
+header{
+    height: 6vh;
+    width: 100%;
+    background-color: #706CD9;
+    border: 1px solid #6929F2;
+    box-shadow: 5px 5px 10px rgba(105, 41, 242, 100);
+    display: flex;
+    align-items: center;
+  
+
+& img{
+    margin-left: 10px;
+}
+
+& h1{
+    margin-left: 5%;
+    font-family: Roboto, sans-serif;
+    color: #D0D5F2;
+    border: #706CD9;
+    text-shadow: 5px 5px 10px rgba(105,41,242,100);
+    font-size: 1.6rem;
+}
+
+.img-menu{
+    width: 40px;
+    height: 40px;
+    margin-left: 150px;
+}
+}

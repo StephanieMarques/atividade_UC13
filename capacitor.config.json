@@ -1,0 +1,6 @@
+{
+  "appId": "com.cdmaster.br",
+  "appName": "CD Master",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

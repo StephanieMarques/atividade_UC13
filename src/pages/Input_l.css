@@ -1,0 +1,58 @@
+body{
+
+    /* display: grid;
+    place-items: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #0000; */
+/* 
+    .card{
+        background-color: #f2f2f2;
+    } */
+
+    & h1.input_c{
+        font-size: 32px;
+        font-family: Roboto, sans-serif;
+        color: #3DF249;
+        text-align: center;
+        margin-top: -20px;
+    }
+
+    & p.intro {
+        font-size: 20px ;
+        font-family: Montserrat, sans-serif;
+        color: #D0D5F2;
+        margin-top: -20px;
+        text-align: center;
+        margin-top: -100px;
+    }
+
+    /* & button{
+        width: 280px;
+        height: 50px;
+        border-radius: 5px;
+        border-color: #3DF249;
+        background-color: #3DF249;
+        color: #f2f2f2;
+        font-size: 20px;
+        font-family: Montserrat, sans-serif;
+        font-weight: 100;
+        margin-top: 10px;
+    } */
+
+    & input{
+        width: 280px;
+        height: 60px;
+        border: none;
+        border-bottom: 1px solid #3DF249;
+        border-radius: 5px;
+        background-color: #f2f2f2;
+    }
+
+    & input::placeholder{
+        color: #3DF249;
+        font-size: 18px;
+        font-family: Montserrat, sans-serif;
+        font-weight: 700;
+    }
+}
