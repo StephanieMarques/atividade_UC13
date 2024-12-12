@@ -1,5 +1,6 @@
 import React from "react";
 import "./Input_c.css";
+import { Link } from "react-router-dom";
 
 function Input_c () {
      return (
@@ -14,7 +15,7 @@ function Input_c () {
 
         <input type="senha" name="Senha" id="senha" placeholder="Senha"/>
 
-        <button className="btn-input">Cadastrar</button>
+        <Link to='/generos'><button className="btn-input">Cadastrar</button></Link>
 
         
         </>
